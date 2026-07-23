@@ -1,2 +1,2 @@
 # odin_calculator
-Calculator Project for TOP
+Calculator made with vanillaJS
